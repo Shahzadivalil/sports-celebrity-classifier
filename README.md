@@ -66,7 +66,7 @@ It predicts the identity of a sports celebrity based on uploaded images.
 ## 📸 Screenshot
 
 
-![Screenshot](./Screenshot .png)
+![Screenshot](./Screenshot.png)
 
 ------------------------------------------------------------------------
 
