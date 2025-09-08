@@ -1,5 +1,5 @@
 # sports-celebrity-classifier
-
+![app_screenshot](./app_screenshot.PNG)
 This project is a **Sports Celebrity Image Classification Web App**
 built using Python, Machine Learning, and HTML for deployment.\
 It predicts the identity of a sports celebrity based on uploaded images.
@@ -62,14 +62,6 @@ It predicts the identity of a sports celebrity based on uploaded images.
         http://127.0.0.1:5000
 
 ------------------------------------------------------------------------
-
-## 📸 Screenshot
-
-
-![app_screenshot](./app_screenshot.PNG)
-
-------------------------------------------------------------------------
-
 ## 📌 Future Enhancements
 
 -   Add more celebrity classes.
